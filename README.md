@@ -7,7 +7,7 @@ This is a quick example to answer
 [How to exclude excess unusable dependencies while optimizing with requireJS?](http://stackoverflow.com/questions/35145241/how-to-exclude-excess-unusable-dependencies-while-optimizing-with-requirejs)
 using a project created by [yeoman](http://yeoman.io) using the [requirejs generator](https://github.com/danheberden/yeoman-generator-requirejs).
 
-To see the example check out the code and run [npm]https://www.npmjs.com) and
+To see the example check out the code and run [npm](https://www.npmjs.com) and
 [bower](http://bower.io) to download all the dependencies:
 
     npm install
